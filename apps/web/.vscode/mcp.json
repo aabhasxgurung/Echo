@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Sentry": {
+      "url": "https://mcp.sentry.dev/mcp/aabhas-5q/echo",
+      "type": "http"
+    }
+  }
+}
